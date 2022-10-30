@@ -9,5 +9,4 @@ public class JanitorApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JanitorApiApplication.class, args);
 	}
-
 }
